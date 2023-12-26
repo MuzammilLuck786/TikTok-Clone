@@ -1,4 +1,5 @@
 # TikTok Clone App
+https://github.com/MuzammilLuck786/TikTok-Clone/assets/146478975/4ed748a2-41a1-45d2-bb0a-3e181648280c
 
 This application is a TikTok clone that fetches video content from Pixabay API based on different interests. It utilizes technologies like Retrofit, ExoPlayer, and follows the MVVM architecture with LiveData.
 
